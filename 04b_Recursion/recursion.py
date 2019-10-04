@@ -32,3 +32,4 @@ print(cTemps)
 
 cTemps2 = list(map(lambda f: (f - 32) * 5 / 9, fTemps))
 print(cTemps2)
+
